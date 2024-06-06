@@ -1,10 +1,15 @@
 #!/bin/bash
 
-RPC_TO_COMPARE="https://rpc.initia.testnet.dteam.tech"
-YOUR_RPC=""
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 YOUR_RPC TELEGRAM_TOKEN CHAT_ID"
+    exit 1
+fi
 
-TELEGRAM_TOKEN=""
-CHAT_ID=""
+YOUR_RPC="$1"
+TELEGRAM_TOKEN="$2"
+CHAT_ID="$3"
+
+RPC_TO_COMPARE="https://rpc.initia.testnet.dteam.tech"
 
 send_telegram_message() {
     local message=$1
@@ -21,7 +26,7 @@ while true; do
     response_your_rpc=$(get_rpc_data $YOUR_RPC)
 
     if [ -z "$response_to_compare" ]; then
-        send_telegram_message "RPC to compare is not available."
+        send_telegram_message "Compare RPC is not available."
     fi
 
     if [ -z "$response_your_rpc" ]; then
