@@ -38,4 +38,4 @@ To use the `initia-rpc-health-checker.sh` script, follow these steps:
 
 We welcome contributions to improve the scripts in this folder. Please follow the general contribution guidelines outlined in the main repository's README.
 
-**Thank you for contributing to the DTEAM projects!**
+**Thank you for contributing to the DTEAM supported projects!**
