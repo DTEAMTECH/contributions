@@ -1,3 +1,5 @@
+[<img src='https://raw.githubusercontent.com/DTEAMTECH/contributions/main/initia/utils/contributions.png' alt='Initia'  width='100%'>](https://initia.xyz/)
+
 # Initia
 
 This folder contains scripts and useful tools for Initia. Each script has a specific purpose to ensure the smooth running and monitoring of the systems.
