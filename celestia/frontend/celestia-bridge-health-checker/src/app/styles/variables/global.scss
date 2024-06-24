@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "DallasRegular";
+  src: url("../../../../public/fonts/Dallas/Dallas-Regular.woff2") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "DallasBold";
+  src: url("../../../../public/fonts/Dallas/Dallas-Bold.woff2") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+:root {
+  --font-family-main: 'DallasRegular';
+  --font-family-bold: 'DallasBold';
+
+  --font-size-m: 12px;
+  --font-line-m: 20px;
+  --font-m: var(--font-size-m) / var(--font-line-m) var(--font-family-main);
+
+  --font-size-l: 24px;
+  --font-line-l: 32px;
+  --font-l: var(--font-size-l) / var(--font-line-l) var(--font-family-main);
+
+  --font-size-xl: 32px;
+  --font-line-xl: 40px;
+  --font-xl: var(--font-size-xl) / var(--font-line-xl) var(--font-family-main);
+
+  --bg-color: #323232;
+  --bg-content-color: #303030;
+  --primary-color: #ff9417;
+  --secondary-color: #636363;
+
+  --border: 1px solid var(--secondary-color);
+  --box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
