@@ -26,8 +26,9 @@ To use the Celestia Bridge Health Checker, follow these steps:
       * Mainnet: ```celestia bridge auth read```
       * Testnet: ```celestia bridge auth read --p2p.network mocha-4```
 
-3. Fill in all the fields with the relevant data and press the "Check" button.
-  
+3. Usage: 
+    * On the website: Go to [link](https://celestia-bridge-checker.dteam.tech/), fill in all the fields with the relevant data and press the "Check" button.
+    * In discord: Go to #celestia-bridge-checker channel and type ```!checknode <ip> <port> <token>```.
 4. Check the results!
 
 ## Contribution
