@@ -6,13 +6,13 @@ This folder contains scripts and useful tools for Celestia. Each script has a sp
 <br><br>
 | Navigation: |
 |-------------|
-| [About Celestia](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#about-celestia) |
-| [Celestia resources](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-resources) |
-| [Our tools](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#tools) |
-| [Our infra / services](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#our-infra--services-on-website) |
-| [Our other contributions](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-resources) |
-| Our tools usage:<br>[Bridge health checker](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-bridge-health-checker-usage)<br>[Faucet](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-community-discord-faucet-usage) |
-| [Contribute to this repo](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#contribution) |
+| [About Celestia](https://github.com/DTEAMTECH/contributions/tree/main/celestia#about-celestia) |
+| [Celestia resources](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-resources) |
+| [Our tools](https://github.com/DTEAMTECH/contributions/tree/main/celestia#tools) |
+| [Our infra / services](https://github.com/DTEAMTECH/contributions/tree/main/celestia#our-infra--services-on-dteamtech) |
+| [Our other contributions](https://github.com/DTEAMTECH/contributions/tree/main/celestia#other-contributions) |
+| Our tools usage:<br>[Bridge health checker](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-bridge-health-checker-usage)<br>[Faucet](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-community-discord-faucet-usage) |
+| [Contribute to this repo](https://github.com/DTEAMTECH/contributions/tree/main/celestia#contribution) |
 
 # About Celestia
   * **Modular Architecture:** Celestia separates the consensus and data availability layers from the execution layer, allowing for customizable execution environments.
