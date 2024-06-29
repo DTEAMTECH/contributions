@@ -1,8 +1,38 @@
 [<img src='https://raw.githubusercontent.com/DTEAMTECH/contributions/main/celestia/utils/contributions.png' alt='Celestia'  width='100%'>](https://celestia.org/)
 
-# Celestia
+# Celestia contributions folder
 
 This folder contains scripts and useful tools for Celestia. Each script has a specific purpose to ensure the smooth running and monitoring of the systems.
+
+# About Celestia
+  * **Modular Architecture:** Celestia separates the consensus and data availability layers from the execution layer, allowing for customizable execution environments.
+    
+  * **Scalability:** Decoupling data availability from transaction execution results in higher throughput and greater transaction capacity.
+    
+  * **Data Availability Sampling:** This technique ensures all data in a block is available without requiring nodes to download the entire block, improving security and reducing bandwidth needs.
+    
+  * **Sovereign Rollups:** Supports independent execution environments that leverage Celestia's consensus and data availability.
+    
+  * **Interoperability:** Facilitates seamless integration and communication across different blockchain networks.
+    
+  * **Decentralization:** Lowers the barrier to running a full node, promoting a more decentralized and secure network.
+    
+  * **Ease of Use:** Simplifies development with clear APIs and tools, allowing developers to focus on application logic.
+
+  * **Security:** Employs advanced cryptographic techniques to ensure data integrity and protection.
+    
+  * **Economics:** Introduces a novel economic model that incentivizes validators and supports network sustainability.
+
+# Celestia resources
+
+| Resource | Link |
+|-------------|-------------|
+| Website | [https://celestia.org/](https://celestia.org/) |
+| Twitter / X | [https://twitter.com/CelestiaOrg](https://twitter.com/CelestiaOrg) |
+| Github | [https://github.com/celestiaorg](https://github.com/celestiaorg) |
+| Discord | [https://discord.gg/YrXs6nV4Ra](https://discord.gg/YrXs6nV4Ra) |
+| Linkedin | [https://www.linkedin.com/company/celestiaorg/](https://www.linkedin.com/company/celestiaorg/)    |
+| Blog | [https://blog.celestia.org/](https://blog.celestia.org/) |
 
 ## Tools
 
@@ -34,6 +64,37 @@ This folder contains scripts and useful tools for Celestia. Each script has a sp
       * [https://explorer.mainnet.dteam.tech/celestia](https://explorer.mainnet.dteam.tech/celestia)
    * Testnet(mocha-4):
       * [https://explorer.testnet.dteam.tech/celestia](https://explorer.testnet.dteam.tech/celestia)
+    
+## Our infra / services on website
+- **Mainnet(celestia):**
+  
+| Name | Description | Link |
+|-------------|-------------|-------------|
+| Overview | Links to Celestia resources, DTEAM validator status, network parameters, and staking calculator for mainnet networks. | [https://dteam.tech/services/mainnet/overview/celestia](https://dteam.tech/services/mainnet/overview/celestia) |
+| Installation guides | Comprehensive installation guides for various setups including consensus, cosmovisor, bridge, full, and light nodes. | [Consensus](https://dteam.tech/services/mainnet/installation-guide/celestia?type=consensus)<br>[Consensus with cosmovisor](https://dteam.tech/services/mainnet/installation-guide/celestia?type=cosmovisor)<br>[Bridge](https://dteam.tech/services/mainnet/installation-guide/celestia?type=bridge)<br>[Full](https://dteam.tech/services/mainnet/installation-guide/celestia?type=full)<br>[Light](https://dteam.tech/services/mainnet/installation-guide/celestia?type=light) |
+| Snapshot | Provides the latest blockchain snapshots for quick node setup and synchronization. | [https://dteam.tech/services/mainnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia) |
+| State sync | Instructions and resources for state sync to speed up node synchronization. | [https://dteam.tech/services/mainnet/state-sync/celestia](https://dteam.tech/services/mainnet/state-sync/celestia) |
+| Endpoints | Information on various network endpoints for connecting to the Celestia mainnet. | [https://dteam.tech/services/mainnet/endpoints/celestia](https://dteam.tech/services/mainnet/endpoints/celestia) |
+| Addrbook | Contains the addrbook.json file for discovering peers and improving network connectivity. | [https://dteam.tech/services/mainnet/endpoints/celestia](https://dteam.tech/services/mainnet/endpoints/celestia) |
+| Genesis | Provides the genesis.json file necessary for node initialization and network participation. | [https://dteam.tech/services/mainnet/genesis/celestia](https://dteam.tech/services/mainnet/genesis/celestia) |
+| Persistent peers | List of persistent peers to enhance network stability and connectivity. | [https://dteam.tech/services/mainnet/peers/celestia](https://dteam.tech/services/mainnet/peers/celestia) |
+| Seed node | Details on seed nodes for initial peer discovery and network bootstrapping. | [https://dteam.tech/services/mainnet/seeds/celestia](https://dteam.tech/services/mainnet/seeds/celestia) |
+| Useful commands / Cheat sheet | A collection of essential commands and a cheat sheet for managing Celestia nodes effectively. | [https://dteam.tech/services/mainnet/useful-commands/celestia](https://dteam.tech/services/mainnet/useful-commands/celestia) |
+
+- **Testnet(mocha-4):**
+  
+| Name | Description | Link |
+|-------------|-------------|-------------|
+| Overview | Links to Celestia resources, DTEAM validator status, network parameters. | [https://dteam.tech/services/testnet/overview/celestia](https://dteam.tech/services/testnet/overview/celestia) |
+| Installation guides | Comprehensive installation guides for various setups including consensus, cosmovisor, bridge, full, and light nodes. | [Consensus](https://dteam.tech/services/testnet/installation-guide/celestia?type=consensus)<br>[Consensus with cosmovisor](https://dteam.tech/services/testnet/installation-guide/celestia?type=cosmovisor)<br>[Bridge](https://dteam.tech/services/testnet/installation-guide/celestia?type=bridge)<br>[Full](https://dteam.tech/services/testnet/installation-guide/celestia?type=full)<br>[Light](https://dteam.tech/services/testnet/installation-guide/celestia?type=light) |
+| Snapshot | Provides the latest blockchain snapshots for quick node setup and synchronization. | [https://dteam.tech/services/testnet/snapshot/celestia](https://dteam.tech/services/testnet/snapshot/celestia) |
+| State sync | Instructions and resources for state sync to speed up node synchronization. | [https://dteam.tech/services/testnet/state-sync/celestia](https://dteam.tech/services/testnet/state-sync/celestia) |
+| Endpoints | Information on various network endpoints for connecting to the Celestia testnet. | [https://dteam.tech/services/testnet/endpoints/celestia](https://dteam.tech/services/testnet/endpoints/celestia) |
+| Addrbook | Contains the addrbook.json file for discovering peers and improving network connectivity. | [https://dteam.tech/services/testnet/endpoints/celestia](https://dteam.tech/services/testnet/endpoints/celestia) |
+| Genesis | Provides the genesis.json file necessary for node initialization and network participation. | [https://dteam.tech/services/testnet/genesis/celestia](https://dteam.tech/services/testnet/genesis/celestia) |
+| Persistent peers | List of persistent peers to enhance network stability and connectivity. | [https://dteam.tech/services/testnet/peers/celestia](https://dteam.tech/services/testnet/peers/celestia) |
+| Seed node | Details on seed nodes for initial peer discovery and network bootstrapping. | [https://dteam.tech/services/testnet/seeds/celestia](https://dteam.tech/services/testnet/seeds/celestia) |
+| Useful commands / Cheat sheet | A collection of essential commands and a cheat sheet for managing Celestia nodes effectively. | [https://dteam.tech/services/testnet/useful-commands/celestia](https://dteam.tech/services/testnet/useful-commands/celestia) |
       
 
 ## Celestia bridge health checker usage
