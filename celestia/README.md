@@ -86,11 +86,11 @@ This folder contains scripts and useful tools for Celestia. Each script has a sp
    * Mainnet(celestia):
       * RPC / Archive: ```https://rpc.archive.celestia.mainnet.dteam.tech:443```
       * Rest / Archive: ```https://api.archive.celestia.mainnet.dteam.tech:443```
-      * GRPC / Archive: ```https://grpc.archive.celestia.mainnet.dteam.tech:443```
+      * GRPC / Archive: ```grpc.archive.celestia.mainnet.dteam.tech:28090```
    * Testnet(mocha-4):
       * RPC / Archive: ```https://rpc.archive.celestia.testnet.dteam.tech:443```
       * Rest / Archive: ```https://api.archive.celestia.testnet.dteam.tech:443```
-      * GRPC / Archive: ```https://grpc.archive.celestia.testnet.dteam.tech:443```
+      * GRPC / Archive: ```grpc.archive.celestia.testnet.dteam.tech:27090```
 
 - **Seeds / Peers:**
    * Mainnet(celestia):
