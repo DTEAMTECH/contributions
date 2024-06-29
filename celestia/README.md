@@ -3,6 +3,16 @@
 # Celestia contributions folder
 
 This folder contains scripts and useful tools for Celestia. Each script has a specific purpose to ensure the smooth running and monitoring of the systems.
+<br><br>
+| Navigation: |
+|-------------|
+| [About Celestia](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#about-celestia) |
+| [Celestia resources](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-resources) |
+| [Our tools](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#tools) |
+| [Our infra / services](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#our-infra--services-on-website) |
+| [Our other contributions](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-resources) |
+| Our tools usage:<br>[Bridge health checker](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-bridge-health-checker-usage)<br>[Faucet](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#celestia-community-discord-faucet-usage) |
+| [Contribute to this repo](https://github.com/DTEAMTECH/contributions/edit/main/celestia/README.md#contribution) |
 
 # About Celestia
   * **Modular Architecture:** Celestia separates the consensus and data availability layers from the execution layer, allowing for customizable execution environments.
@@ -27,45 +37,19 @@ This folder contains scripts and useful tools for Celestia. Each script has a sp
 
 | Resource | Link |
 |-------------|-------------|
-| Website | [https://celestia.org/](https://celestia.org/) |
+| Website | [https://celestia.org/](https://celestia.org) |
 | Twitter / X | [https://twitter.com/CelestiaOrg](https://twitter.com/CelestiaOrg) |
 | Github | [https://github.com/celestiaorg](https://github.com/celestiaorg) |
 | Discord | [https://discord.gg/YrXs6nV4Ra](https://discord.gg/YrXs6nV4Ra) |
-| Linkedin | [https://www.linkedin.com/company/celestiaorg/](https://www.linkedin.com/company/celestiaorg/)    |
+| Linkedin | [https://www.linkedin.com/company/celestiaorg/](https://www.linkedin.com/company/celestiaorg)    |
 | Blog | [https://blog.celestia.org/](https://blog.celestia.org/) |
 
 ## Tools
 
 - **Celestia bridge health checker** / **Available on [website](https://celestia-bridge-checker.dteam.tech/) and [Discord](https://discord.gg/BCeXe63Mm8)**: Celestia Bridge Health Checker, the ultimate tool for ensuring the reliability and security of your Celestia bridge node. Designed with the community in mind, this checker allows you to easily verify the health of your bridge nodes. Simply enter your IP, port, and authentication token to get started.
 - **Celestia community [Discord](https://discord.gg/BCeXe63Mm8) faucet**: The Celestia DTEAM Community Faucet is designed as a reliable backup solution to ensure that users can always receive tokens, even if the main faucet experiences problems. You can receive up to 10 tokens every 24 hours.
-
-## Other contributions
-
-- **Endpoints / Archive**:
-   * Mainnet(celestia):
-      * RPC / Archive: ```https://rpc.archive.celestia.mainnet.dteam.tech:443```
-      * Rest / Archive: ```https://api.archive.celestia.mainnet.dteam.tech:443```
-      * GRPC / Archive: ```https://grpc.archive.celestia.mainnet.dteam.tech:443```
-   * Testnet(mocha-4):
-      * RPC / Archive: ```https://rpc.archive.celestia.testnet.dteam.tech:443```
-      * Rest / Archive: ```https://api.archive.celestia.testnet.dteam.tech:443```
-      * GRPC / Archive: ```https://grpc.archive.celestia.testnet.dteam.tech:443```
-
-- **Seeds / Peers:**
-   * Mainnet(celestia):
-      * Seed: ```9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656```
-      * Peer: ```076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656```
-   * Testnet(mocha-4):
-      * Seed: ```70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656```
-      * Peer: ```6ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656```
-
-- **Explorers / Archive:**
-   * Mainnet(celestia):
-      * [https://explorer.mainnet.dteam.tech/celestia](https://explorer.mainnet.dteam.tech/celestia)
-   * Testnet(mocha-4):
-      * [https://explorer.testnet.dteam.tech/celestia](https://explorer.testnet.dteam.tech/celestia)
     
-## Our infra / services on website
+## Our infra / services on [dteam.tech](https://dteam.tech/)
 - **Mainnet(celestia):**
   
 | Name | Description | Link |
@@ -95,7 +79,32 @@ This folder contains scripts and useful tools for Celestia. Each script has a sp
 | Persistent peers | List of persistent peers to enhance network stability and connectivity. | [https://dteam.tech/services/testnet/peers/celestia](https://dteam.tech/services/testnet/peers/celestia) |
 | Seed node | Details on seed nodes for initial peer discovery and network bootstrapping. | [https://dteam.tech/services/testnet/seeds/celestia](https://dteam.tech/services/testnet/seeds/celestia) |
 | Useful commands / Cheat sheet | A collection of essential commands and a cheat sheet for managing Celestia nodes effectively. | [https://dteam.tech/services/testnet/useful-commands/celestia](https://dteam.tech/services/testnet/useful-commands/celestia) |
-      
+
+## Other contributions
+
+- **Endpoints / Archive**:
+   * Mainnet(celestia):
+      * RPC / Archive: ```https://rpc.archive.celestia.mainnet.dteam.tech:443```
+      * Rest / Archive: ```https://api.archive.celestia.mainnet.dteam.tech:443```
+      * GRPC / Archive: ```https://grpc.archive.celestia.mainnet.dteam.tech:443```
+   * Testnet(mocha-4):
+      * RPC / Archive: ```https://rpc.archive.celestia.testnet.dteam.tech:443```
+      * Rest / Archive: ```https://api.archive.celestia.testnet.dteam.tech:443```
+      * GRPC / Archive: ```https://grpc.archive.celestia.testnet.dteam.tech:443```
+
+- **Seeds / Peers:**
+   * Mainnet(celestia):
+      * Seed: ```9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656```
+      * Peer: ```076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656```
+   * Testnet(mocha-4):
+      * Seed: ```70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656```
+      * Peer: ```6ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656```
+
+- **Explorers / Archive:**
+   * Mainnet(celestia):
+      * [https://explorer.mainnet.dteam.tech/celestia](https://explorer.mainnet.dteam.tech/celestia)
+   * Testnet(mocha-4):
+      * [https://explorer.testnet.dteam.tech/celestia](https://explorer.testnet.dteam.tech/celestia)
 
 ## Celestia bridge health checker usage
 
