@@ -2,7 +2,7 @@
 
 # Celestia contributions folder
 
-This folder contains scripts and useful tools for Celestia. Each script has a specific purpose to ensure the smooth running and monitoring of the systems.
+The Celestia contributions folder contains scripts and tools designed to facilitate the efficient operation and monitoring of Celestia blockchain systems. Each tool within this folder serves a unique function to support network stability and user engagement.
 <br><br>
 | Navigation: |
 |-------------|
