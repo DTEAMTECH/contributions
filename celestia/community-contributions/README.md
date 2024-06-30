@@ -1,3 +1,5 @@
+[<img src='https://raw.githubusercontent.com/DTEAMTECH/contributions/main/celestia/utils/community_contributions.png' alt='Celestia'  width='100%'>](https://celestia.org/)
+
 # Community Contributions for Celestia
 
 Welcome to the Celestia Community Contributions folder! This space is dedicated to housing a variety of tools and scripts created by our vibrant community to support and enhance the Celestia blockchain. Whether you're a validator, developer, or enthusiast, you'll find valuable resources here to help you navigate and optimize your Celestia experience.
