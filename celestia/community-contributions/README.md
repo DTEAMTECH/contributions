@@ -23,31 +23,54 @@ The Celestia blockchain is designed with modularity and scalability in mind, mak
 
 **1. Node Setup Scripts**
    - Comprehensive scripts to automate the setup of full, light, and bridge nodes.
-   - [Link to Node Setup Scripts](./node-setup)
+     
+| Provider | Link |
+|-------------|-------------|
+| DTEAM | [Consensus](https://dteam.tech/services/mainnet/installation-guide/celestia?type=consensus)<br>[Consensus with cosmovisor](https://dteam.tech/services/mainnet/installation-guide/celestia?type=cosmovisor)<br>[Bridge](https://dteam.tech/services/mainnet/installation-guide/celestia?type=bridge)<br>[Full](https://dteam.tech/services/mainnet/installation-guide/celestia?type=full)<br>[Light](https://dteam.tech/services/mainnet/installation-guide/celestia?type=light) |
+
 
 **2. Snapshot and State Sync Utilities**
    - Tools to help you quickly sync your node with the network using the latest snapshots.
-   - [Link to Snapshot Tools](./snapshot-tools)
+
+| Provider | Link |
+|-------------|-------------|
+| DTEAM | Mainnet(celestia): [https://dteam.tech/services/mainnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia)<br>Testnet(mocha-4): [https://dteam.tech/services/testnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia) |
 
 ### Monitoring Tools
 
 **1. Health Checkers**
    - Scripts to monitor the health and status of your Celestia nodes, ensuring they are running optimally.
-   - [Link to Health Checkers](./health-checkers)
+
+| Provider | Link |
+|-------------|-------------|
+| DTEAM | On Discord: [https://discord.gg/YrXs6nV4Ra](https://discord.gg/YrXs6nV4Ra)<br>On website: [https://celestia-bridge-checker.dteam.tech](https://celestia-bridge-checker.dteam.tech/) |
 
 **2. Performance Metrics**
    - Tools to track the performance of your nodes and network connectivity.
-   - [Link to Performance Metrics](./performance-metrics)
+
+| Provider | Link |
+|-------------|-------------|
+| P-OPS | [https://github.com/P-OPSTeam/celestia-tools/tree/main/grafana](https://github.com/P-OPSTeam/celestia-tools/tree/main/grafana) |
+| Chainode | [https://github.com/Chainode/CelestiaTools](https://github.com/Chainode/CelestiaTools) |
+| easy2stake | [https://github.com/easy2stake/celestia-bridge-metrics](https://github.com/easy2stake/celestia-bridge-metrics) |
 
 ### Utilities
 
 **1. Token Faucets**
    - Community-driven faucets to ensure you have the tokens you need for testing and transactions.
-   - [Link to Token Faucets](./token-faucets)
+
+| Provider | Link |
+|-------------|-------------|
+| Official | [https://discord.gg/YrXs6nV4Ra](https://discord.gg/YrXs6nV4Ra) |
+| DTEAM | [https://discord.gg/zuaCbppC](https://discord.gg/zuaCbppC) |
+| STAKEME | [https://celestia-testnet.faucetme.pro/](https://celestia-testnet.faucetme.pro/) |
 
 **2. Address Management**
    - Utilities for managing and validating blockchain addresses efficiently.
-   - [Link to Address Management Tools](./address-management)
+
+| Provider | Link |
+|-------------|-------------|
+|  |  |
 
 ## How to Contribute
 
