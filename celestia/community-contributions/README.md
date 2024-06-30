@@ -26,8 +26,10 @@ The Celestia blockchain is designed with modularity and scalability in mind, mak
      
 | Provider | Link |
 |-------------|-------------|
-| DTEAM | [Consensus](https://dteam.tech/services/mainnet/installation-guide/celestia?type=consensus)<br>[Consensus with cosmovisor](https://dteam.tech/services/mainnet/installation-guide/celestia?type=cosmovisor)<br>[Bridge](https://dteam.tech/services/mainnet/installation-guide/celestia?type=bridge)<br>[Full](https://dteam.tech/services/mainnet/installation-guide/celestia?type=full)<br>[Light](https://dteam.tech/services/mainnet/installation-guide/celestia?type=light) |
-
+| DTEAM | [Mainnet / Consensus](https://dteam.tech/services/mainnet/installation-guide/celestia?type=consensus) & [Testnet / Consensus](https://dteam.tech/services/testnet/installation-guide/celestia?type=consensus)<br>[Mainnet / Consensus with cosmovisor](https://dteam.tech/services/mainnet/installation-guide/celestia?type=cosmovisor) & [Testnet / Consensus with cosmovisor](https://dteam.tech/services/testnet/installation-guide/celestia?type=cosmovisor)<br>[Mainnet / Bridge](https://dteam.tech/services/mainnet/installation-guide/celestia?type=bridge) & [Testnet / Bridge](https://dteam.tech/services/testnet/installation-guide/celestia?type=bridge)<br>[Mainnet / Full](https://dteam.tech/services/mainnet/installation-guide/celestia?type=full) & [Testnet / Full](https://dteam.tech/services/testnet/installation-guide/celestia?type=full)<br>[Mainnet / Light](https://dteam.tech/services/mainnet/installation-guide/celestia?type=light) & [Testnet / Light](https://dteam.tech/services/testnet/installation-guide/celestia?type=light) |
+| Kjnodes | Mainnet: [https://services.kjnodes.com/mainnet/celestia/installation](https://services.kjnodes.com/mainnet/celestia/installation)<br>Testnet: [https://services.kjnodes.com/testnet/celestia/installation](https://services.kjnodes.com/testnet/celestia/installation) |
+| ItRocket | Mainnet: [https://itrocket.net/services/mainnet/celestia/installation](https://itrocket.net/services/mainnet/celestia/installation)<br>Testnet: [https://itrocket.net/services/testnet/celestia/installation](https://itrocket.net/services/testnet/celestia/installation) |
+| Polkachu | Mainnet: [https://polkachu.com/installation/celestia](https://polkachu.com/installation/celestia) |
 
 **2. Snapshot and State Sync Utilities**
    - Tools to help you quickly sync your node with the network using the latest snapshots.
@@ -35,6 +37,9 @@ The Celestia blockchain is designed with modularity and scalability in mind, mak
 | Provider | Link |
 |-------------|-------------|
 | DTEAM | Mainnet: [https://dteam.tech/services/mainnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia)<br>Testnet: [https://dteam.tech/services/testnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia) |
+| Kjnodes | Mainnet: [https://services.kjnodes.com/mainnet/celestia/snapshot](https://services.kjnodes.com/mainnet/celestia/snapshot/)<br>Testnet: [https://services.kjnodes.com/testnet/celestia/snapshot](https://services.kjnodes.com/testnet/celestia/snapshot/) |
+| ItRocket | Mainnet: [https://itrocket.net/services/mainnet/celestia](https://itrocket.net/services/mainnet/celestia)<br>Testnet: [https://itrocket.net/services/testnet/celestia](https://itrocket.net/services/testnet/celestia) |
+| Polkachu | Mainnet: [https://polkachu.com/tendermint_snapshots/celestia](https://polkachu.com/tendermint_snapshots/celestia)<br>Testnet: [https://polkachu.com/testnets/celestia/snapshots](https://polkachu.com/testnets/celestia/snapshots) |
 
 ### Monitoring Tools
 
