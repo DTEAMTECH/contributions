@@ -4,15 +4,18 @@
 
 The Celestia contributions folder contains scripts and tools designed to facilitate the efficient operation and monitoring of Celestia blockchain systems. Each tool within this folder serves a unique function to support network stability and user engagement.
 <br><br>
-| Navigation: |
-|-------------|
-| [About Celestia](https://github.com/DTEAMTECH/contributions/tree/main/celestia#about-celestia) |
-| [Celestia resources](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-resources) |
-| [Our tools](https://github.com/DTEAMTECH/contributions/tree/main/celestia#tools) |
-| [Our infra / services](https://github.com/DTEAMTECH/contributions/tree/main/celestia#our-infra--services-on-dteamtech) |
-| [Our other contributions](https://github.com/DTEAMTECH/contributions/tree/main/celestia#other-contributions) |
-| Our tools usage:<br>[Bridge health checker](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-bridge-health-checker-usage)<br>[Faucet](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-community-discord-faucet-usage) |
-| [Contribute to this repo](https://github.com/DTEAMTECH/contributions/tree/main/celestia#contribution) |
+
+# Navigation
+| Link | Description |
+|-------------|-------------|
+| [About Celestia](https://github.com/DTEAMTECH/contributions/tree/main/celestia#about-celestia) | Insight into Celestia's modular architecture, scalability, data availability, and other key features. |
+| [Celestia resources](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-resources) | Links to essential resources, including the official website, GitHub, and social media. |
+| [Our tools](https://github.com/DTEAMTECH/contributions/tree/main/celestia#tools) | Descriptions of the tools provided in this repository. |
+| [Our infra / services](https://github.com/DTEAMTECH/contributions/tree/main/celestia#our-infra--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
+| [Our other contributions](https://github.com/DTEAMTECH/contributions/tree/main/celestia#other-contributions) | Information on additional contributions to the Celestia ecosystem. |
+| [Bridge checker usage guide](https://github.com/DTEAMTECH/contributions/tree/main/celestia#other-contributions) | A tool for verifying the health of your Celestia bridge node. Available on the website and Discord, it requires IP, port, and authentication token for operation. |
+| [Faucet usage guide](https://github.com/DTEAMTECH/contributions/tree/main/celestia#other-contributions) | A backup solution to ensure token availability, allowing users to receive up to 10 tokens every 24 hours via Discord. |
+
 
 # About Celestia
   * **Modular Architecture:** Celestia separates the consensus and data availability layers from the execution layer, allowing for customizable execution environments.
