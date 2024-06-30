@@ -34,7 +34,7 @@ The Celestia blockchain is designed with modularity and scalability in mind, mak
 
 | Provider | Link |
 |-------------|-------------|
-| DTEAM | Mainnet(celestia): [https://dteam.tech/services/mainnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia)<br>Testnet(mocha-4): [https://dteam.tech/services/testnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia) |
+| DTEAM | Mainnet: [https://dteam.tech/services/mainnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia)<br>Testnet: [https://dteam.tech/services/testnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia) |
 
 ### Monitoring Tools
 
