@@ -54,6 +54,14 @@ The Celestia blockchain is designed with modularity and scalability in mind, mak
 | Chainode | [https://github.com/Chainode/CelestiaTools](https://github.com/Chainode/CelestiaTools) |
 | easy2stake | [https://github.com/easy2stake/celestia-bridge-metrics](https://github.com/easy2stake/celestia-bridge-metrics) |
 
+**3. Decentralization metrics**
+   - Tools to monitor and track the decentralization of the Celestia network, ensuring a distributed and resilient system.
+
+| Provider | Link |
+|-------------|-------------|
+| ItRocket | Mainnet: [https://itrocket.net/services/mainnet/celestia/decentralization/](https://itrocket.net/services/mainnet/celestia/decentralization/)<br>Testnet: [https://itrocket.net/services/testnet/celestia/decentralization/](https://itrocket.net/services/testnet/celestia/decentralization/) |
+| validao | Mainnet: [https://validao.xyz/#maps-celestia](https://validao.xyz/#maps-celestia)<br>Mainnet DA: [https://validao.xyz/#maps-celestia-da](https://validao.xyz/#maps-celestia-da)<br>Testnet: [https://validao.xyz/#maps-celestia-testnet](https://validao.xyz/#maps-celestia-testnet)<br>Testnet DA: [https://validao.xyz/#maps-celestia-testnet-da](https://validao.xyz/#maps-celestia-testnet-da) |
+
 ### Utilities
 
 **1. Token Faucets**
@@ -64,13 +72,6 @@ The Celestia blockchain is designed with modularity and scalability in mind, mak
 | Official | [https://discord.gg/YrXs6nV4Ra](https://discord.gg/YrXs6nV4Ra) |
 | DTEAM | [https://discord.gg/zuaCbppC](https://discord.gg/zuaCbppC) |
 | STAKEME | [https://celestia-testnet.faucetme.pro/](https://celestia-testnet.faucetme.pro/) |
-
-**2. Address Management**
-   - Utilities for managing and validating blockchain addresses efficiently.
-
-| Provider | Link |
-|-------------|-------------|
-|  |  |
 
 ## How to Contribute
 
