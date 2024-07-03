@@ -136,7 +136,7 @@ To use the Celestia Bridge Health Checker, follow these steps:
 
 To use the Celestia community Discord faucet usage, follow these steps:
 1. Usage:
-   * Go to #🚰・celestia channel and type ```!faucet <celestia_address>```
+   * In [Discord](https://discord.gg/BCeXe63Mm8): Go to #🚰・celestia channel and type ```!faucet <celestia_address>```
 2. Check the results!
 
 ## Contribution
