@@ -8,13 +8,13 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 # Navigation
 | Link | Description |
 |-------------|-------------|
-| [About Celestia](https://github.com/DTEAMTECH/contributions/tree/main/celestia#about-celestia) | Insight into Celestia's modular architecture, scalability, data availability, and other key features. |
-| [Celestia resources](https://github.com/DTEAMTECH/contributions/tree/main/celestia#celestia-resources) | Links to essential resources, including the official website, GitHub, and social media. |
-| [Our tools](https://github.com/DTEAMTECH/contributions/tree/main/celestia#tools) | Descriptions of the tools provided in this repository. |
-| [Our infra / services](https://github.com/DTEAMTECH/contributions/tree/main/celestia#our-infra--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
-| [Our other contributions](https://github.com/DTEAMTECH/contributions/tree/main/celestia#other-contributions) | Information on additional contributions to the Celestia ecosystem. |
-| [Bridge checker usage guide](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-bridge-health-checker-usage) | A tool for verifying the health of your Celestia bridge node. Available on the website and Discord, it requires IP, port, and authentication token for operation. |
-| [Faucet usage guide](https://github.com/DTEAMTECH/contributions/blob/main/celestia/README.md#celestia-community-discord-faucet-usage) | A backup solution to ensure token availability, allowing users to receive up to 10 tokens every 24 hours via Discord. |
+| [About Celestia](#about-celestia) | Insight into Celestia's modular architecture, scalability, data availability, and other key features. |
+| [Celestia resources](#celestia-resources) | Links to essential resources, including the official website, GitHub, and social media. |
+| [Our tools](#tools) | Descriptions of the tools provided in this repository. |
+| [Our infra / services](#our-infra--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
+| [Our other contributions](#other-contributions) | Information on additional contributions to the Celestia ecosystem. |
+| [Bridge checker usage guide](#celestia-bridge-health-checker-usage) | A tool for verifying the health of your Celestia bridge node. Available on the website and Discord, it requires IP, port, and authentication token for operation. |
+| [Faucet usage guide](#celestia-community-discord-faucet-usage) | A backup solution to ensure token availability, allowing users to receive up to 10 tokens every 24 hours via Discord. |
 
 
 # About Celestia
