@@ -1,0 +1,3 @@
+[submodule "nubit/nubit-bridge-metrics"]
+	path = nubit/nubit-bridge-metrics
+	url = https://github.com/DTEAMTECH/nubit-bridge-metrics
