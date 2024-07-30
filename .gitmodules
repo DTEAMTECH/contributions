@@ -1,3 +1,6 @@
 [submodule "nubit/nubit-bridge-metrics"]
 	path = nubit/nubit-bridge-metrics
 	url = https://github.com/DTEAMTECH/nubit-bridge-metrics
+[submodule "celestia/celestia-bridge-metrics-frontend"]
+	path = celestia/celestia-bridge-metrics-frontend
+	url = https://github.com/DTEAMTECH/celestia-bridge-health-checker
