@@ -67,7 +67,7 @@ The 0G contributions folder contains scripts and tools designed to facilitate th
       * RPC: ```https://rpc.0g.testnet.dteam.tech:443```
       * Rest: ```https://api.0g.testnet.dteam.tech:443```
       * EVM: ```https://evm.0g.testnet.dteam.tech:443```
-      * GRPC: ```grpc.0g.testnet.dteam.tech:28090```
+      * GRPC: ```grpc.0g.testnet.dteam.tech:31091```
         
 - **Explorer:**
    * Testnet(zgtendermint_16600-2):
