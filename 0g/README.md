@@ -76,7 +76,12 @@ The 0G contributions folder contains scripts and tools designed to facilitate th
 ## 0G storage node status checker usage
 
 To use the 0G storage node status checker, follow these steps:
-
+1. Setup storage node: [https://medium.com/@nodescribe/0g-storage-node-step-by-step-guide-update-ca4132e57824](https://medium.com/@nodescribe/0g-storage-node-step-by-step-guide-update-ca4132e57824)
+2. Usage:
+   * In [Discord](https://discord.gg/BCeXe63Mm8): Go to #🤖・0g-storage-status channel and type ```!checknode <ip> <port (optional)>```
+3. Check the results!
+<br><br>
+![Example storage checker GIF](utils/example_storage_checker.gif)
 
 ## 0G community Discord faucet usage
 
@@ -84,6 +89,8 @@ To use the 0G community Discord faucet usage, follow these steps:
 1. Usage:
    * In [Discord](https://discord.gg/BCeXe63Mm8): Go to #🚰・0g channel and type ```!faucet <0g_address>```
 2. Check the results!
+<br><br>
+[<img src='https://raw.githubusercontent.com/DTEAMTECH/contributions/main/0g/utils/example_faucet.png' alt='0G'  width='50%'>](https://0g.ai/)
 
 ## Contribution
 
