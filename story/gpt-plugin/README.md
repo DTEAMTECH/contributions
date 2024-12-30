@@ -4,7 +4,7 @@
 
 **dteam.tech** presents a Story Protocol AI Assistance ChatGPT Plugin — an AI-powered assistant that helps users interact with and understand the Story blockchain protocol. This plugin is designed to support node runners, developers, and users by providing detailed answers and step-by-step instructions based on the Story protocol knowledge base.
 
-Link for install: 
+Link: 
 https://chatgpt.com/g/g-rvVlzbSFF-story-protocol-assistant-by-dteam
 
 ### Key Features
