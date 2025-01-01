@@ -71,6 +71,6 @@ Story Protocol is a blockchain-based platform designed to streamline the managem
       * Peer: ```10f4a5147c5ae2e4707e9077aad44dd1c3fc7cd3@peer.story.testnet.dteam.tech:37656```
 
 ## How to Contribute
-We welcome contributions to improve the scripts in this folder. Please follow the general contribution guidelines outlined in the main repository's README.
+We welcome contributions to improve this folder. Please follow the general contribution guidelines outlined in the main repository's README.
 
 **Thank you for contributing to the projects supported by DTEAM!**
