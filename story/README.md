@@ -60,15 +60,33 @@ Story Protocol is a blockchain-based platform designed to streamline the managem
 | Seed Node | Details on seed nodes for initial peer discovery and network bootstrapping. | [https://dteam.tech/services/testnet/seeds/story](https://dteam.tech/services/testnet/seeds/story) |
 
 ## Other Contributions
-- **Endpoints / Archive**:
+#### **Endpoints**:
    * Testnet(odyssey-0):
-      * RPC / Archive: ```https://rpc.story.testnet.dteam.tech:443```
-      * EVM / Archive: ```https://evm.story.testnet.dteam.tech:443```
+      * **First server (Archive):**
+         * Cosmos RPC: ```https://rpc.story.testnet.dteam.tech```
+         * Cosmos WSS RPC: ```wss://rpc.story.testnet.dteam.tech/websocket```
+         * Cosmos REST: ```https://api.story.testnet.dteam.tech```
+         * EVM RPC: ```https://evm-rpc.story.testnet.dteam.tech```
+         * EVM WSS RPC: ```wss://evm-rpc.wss.story.testnet.dteam.tech```
+           
+      * **Second server (Archive):**
+         * Cosmos RPC: ```https://rpc-2.story.testnet.dteam.tech```
+         * Cosmos WSS RPC: ```wss://rpc-2.story.testnet.dteam.tech/websocket```
+         * Cosmos REST: ```https://api-2.story.testnet.dteam.tech```
+         * EVM RPC: ```https://evm-rpc-2.story.testnet.dteam.tech```
+         * EVM WSS RPC: ```wss://evm-rpc-2.wss.story.testnet.dteam.tech```
+           
+      * **Third server (Archive):**
+         * Cosmos RPC: ```https://rpc-3.story.testnet.dteam.tech```
+         * Cosmos WSS RPC: ```wss://rpc-3.story.testnet.dteam.tech/websocket```
+         * Cosmos REST: ```https://api-3.story.testnet.dteam.tech```
+         * EVM RPC: ```https://evm-rpc-3.story.testnet.dteam.tech```
+         * EVM WSS RPC: ```wss://evm-rpc-3.wss.story.testnet.dteam.tech```
 
-- **Seeds / Peers:**
+#### **Seeds / Peers:**
    * Testnet(odyssey-0):
       * Seed: ```6fc1491d5b8b859c1fafbe129fe4c0f842836a79@seed.story.testnet.dteam.tech:32656```
-      * Peer: ```10f4a5147c5ae2e4707e9077aad44dd1c3fc7cd3@peer.story.testnet.dteam.tech:37656```
+      * Peer: ```dc60dd34a95b92188b00e027bfd956552c029ac2@peer.story.testnet.dteam.tech:37656```
 
 ## How to Contribute
 We welcome contributions to improve this folder. Please follow the general contribution guidelines outlined in the main repository's README.
