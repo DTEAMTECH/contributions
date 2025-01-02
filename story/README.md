@@ -50,7 +50,7 @@ Story Protocol is a blockchain-based platform designed to streamline the managem
 | Name | Description | Link |
 |-------------|-------------|-------------|
 | Overview | Links to Story Protocol resources, DTEAM validator status, network parameters. | [https://dteam.tech/services/testnet/overview/story](https://dteam.tech/services/testnet/overview/story) |
-| Installation Guides | Comprehensive installation guides for various setups including consensus and consensus with cosmovisor. | [Consensus](https://dteam.tech/services/testnet/installation-guide/story?type=consensus) / [Consensus with Cosmovisor]() |
+| Installation Guides | Comprehensive installation guides for various setups including consensus and consensus with cosmovisor. | [Consensus](https://dteam.tech/services/testnet/installation-guide/story?type=consensus) / [Consensus with Cosmovisor](https://dteam.tech/services/testnet/installation-guide/story?type=cosmovisor) |
 | Snapshot | Provides the latest blockchain snapshots for quick node setup and synchronization. | [Pruned](https://dteam.tech/services/testnet/snapshot/story?type=pruned) / [Archive](https://dteam.tech/services/testnet/snapshot/story?type=archive) |
 | State Sync | Instructions and resources for state sync to speed up node synchronization. | [https://dteam.tech/services/testnet/state-sync/story](https://dteam.tech/services/testnet/state-sync/story) |
 | Endpoints | Information on various network endpoints for connecting to the Story Protocol testnet. | [https://dteam.tech/services/testnet/endpoints/story](https://dteam.tech/services/testnet/endpoints/story) |
