@@ -5,6 +5,8 @@
 > **Note**: As this application is in early access, the dataset is limited. Stay tuned for updates as more features and data will be added in the coming releases!
 > Source code will be available soon!
 
+### Link: https://graph-story.app
+
 **This tool is designed to help users explore and understand the connections between different IP assets, providing a clear and interactive way to navigate the web of IP ownership.**
 
 **Story IP Graph Visualization (IP Graph Explorer)** is the first IP explorer in the [Story Protocol](https://www.story.foundation/) ecosystem. It is currently in early access (demo mode) and processes only a small portion of data, which will be expanded over time.
