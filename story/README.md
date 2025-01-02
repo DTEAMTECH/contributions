@@ -41,7 +41,7 @@ Story Protocol is a blockchain-based platform designed to streamline the managem
 | Name | Description | Link |
 |-------------|-------------|-------------|
 | Graph IP Visualizer / Graph IP Explorer | This tool would help users explore and understand the connections between different IP assets, providing a clear and interactive way to navigate the web of IP ownership. Powered by DTEAM. | [https://graph-story.app](https://graph-story.app) |
-| Chat GPT Plugin | Plugin for Chat-GPT that either facilitates asset registration or assists users in understanding fair usage within metadata. | [https://chatgpt.com/g/g-673b6f19371481919fe8b41d62d0d83d-story-protocol-assistant-by-dteam](https://chatgpt.com/g/g-673b6f19371481919fe8b41d62d0d83d-story-protocol-assistant-by-dteam) |
+| Chat GPT Plugin | AI-powered plugin designed to simplify the complexities of intellectual property and digital content management. It provides clear guidance on registering creative works, quick answers about usage rights, and an easy-to-understand overview of fair usage and IP rules - empowering creators and users alike. | [https://chatgpt.com/g/g-673b6f19371481919fe8b41d62d0d83d-story-protocol-assistant-by-dteam](https://chatgpt.com/g/g-673b6f19371481919fe8b41d62d0d83d-story-protocol-assistant-by-dteam) |
 | Story Installer | This is a simple command line tool to spin up Story Protocol node. It is designed to be simple and easy to use. | [https://github.com/DTEAMTECH/story-installer](https://github.com/DTEAMTECH/story-installer) |
 
 ## Infrastructure / Services
