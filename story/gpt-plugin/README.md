@@ -1,11 +1,10 @@
-![story](https://github.com/user-attachments/assets/47214ed3-ef39-4223-952f-13a245934e37)
+[<img src='../utils/gpt-plugin.png' alt='Story Protocol'  width='100%'>](https://www.story.foundation/)
 
-# ChatGPT4 assistent for Story protocol 
+# Chat GPT assistant for Story Protocol
 
-**dteam.tech** presents a Story Protocol AI Assistance ChatGPT Plugin — an AI-powered assistant that helps users interact with and understand the Story blockchain protocol. This plugin is designed to support node runners, developers, and users by providing detailed answers and step-by-step instructions based on the Story protocol knowledge base.
+Story Protocol AI Assistance ChatGPT Plugin — an AI-powered assistant that helps users interact with and understand the Story blockchain protocol. This plugin is designed to support node runners, developers, and users by providing detailed answers and step-by-step instructions based on the Story protocol knowledge base.
 
-Link: 
-https://chatgpt.com/g/g-rvVlzbSFF-story-protocol-assistant-by-dteam
+### Link: https://chatgpt.com/g/g-673b6f19371481919fe8b41d62d0d83d-story-protocol-assistant-by-dteam
 
 ### Key Features
 
@@ -20,4 +19,5 @@ https://chatgpt.com/g/g-rvVlzbSFF-story-protocol-assistant-by-dteam
 1. **Ask for General Protocol Information**:
    - Example: `"Give me step by step guide how to setup node?"`
    - The AI will give you a step-by-step guide, including commands to install dependencies, configure settings, and start your node.
-<img width="641" alt="Screenshot 2024-10-19 at 15 58 36" src="https://github.com/user-attachments/assets/0e9701a9-b30d-417e-a180-78ef37351316">
+![image](https://github.com/user-attachments/assets/c70f149f-48e0-43e6-9de3-1b9773dd98cb)
+
