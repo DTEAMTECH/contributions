@@ -3,6 +3,7 @@
 # Story IP Graph Visualization | IP Graph Explorer
 
 > **Note**: As this application is in early access, the dataset is limited. Stay tuned for updates as more features and data will be added in the coming releases!
+> Source code will be available soon!
 
 **This tool is designed to help users explore and understand the connections between different IP assets, providing a clear and interactive way to navigate the web of IP ownership.**
 
