@@ -1,4 +1,4 @@
-[<img src='https://raw.githubusercontent.com/DTEAMTECH/contributions/main/celestia/utils/contributions.png' alt='Celestia'  width='100%'>](https://celestia.org/)
+![celestia_contributions](https://github.com/user-attachments/assets/78186c4d-1148-4b7d-9437-a3cbbccbebb1)
 
 # Celestia contributions folder
 
