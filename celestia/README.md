@@ -9,13 +9,11 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 | Link | Description |
 |-------------|-------------|
 | [About Celestia](#about-celestia) | Insight into Celestia's modular architecture, scalability, data availability, and other key features. |
-| [Celestia resources](#celestia-resources) | Links to essential resources, including the official website, GitHub, and social media. |
-| [Our tools](#tools) | Descriptions of the tools provided in this repository. |
-| [Our infra / services](#our-infra--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
-| [Our other contributions](#other-contributions) | Information on additional contributions to the Celestia ecosystem. |
-| [Bridge checker usage guide](#celestia-bridge-health-checker-usage) | A tool for verifying the health of your Celestia bridge node. Available on the website and Discord, it requires IP, port, and authentication token for operation. |
-| [Faucet usage guide](#celestia-community-discord-faucet-usage) | A backup solution to ensure token availability, allowing users to receive up to 10 tokens every 24 hours via Discord. |
-
+| [Celestia Resources](#celestia-resources) | Links to essential resources, including the official website, GitHub, and social media. |
+| [Tools](#tools) | Descriptions of the tools provided in this repository. |
+| [Infra / Services](#our-infra--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
+| [Other Contributions](#other-contributions) | Information on additional contributions to the Celestia ecosystem. |
+| [Contribution to This Repo](#celestia-bridge-health-checker-usage) | A tool for verifying |
 
 # About Celestia
   * **Modular Architecture:** Celestia separates the consensus and data availability layers from the execution layer, allowing for customizable execution environments.
@@ -40,19 +38,35 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 
 | Resource | Link |
 |-------------|-------------|
-| Website | [Link](https://celestia.org) |
-| Twitter / X | [Link](https://twitter.com/CelestiaOrg) |
-| Github | [Link](https://github.com/celestiaorg) |
-| Discord | [Link](https://discord.gg/YrXs6nV4Ra) |
-| Linkedin | [Link](https://www.linkedin.com/company/celestiaorg)    |
-| Blog | [Link](https://blog.celestia.org/) |
+| Website | https://celestia.org |
+| Twitter / X | https://x.com/Celestia |
+| Github | https://github.com/celestiaorg |
+| Discord | https://discord.gg/YrXs6nV4Ra |
+| Linkedin | https://www.linkedin.com/company/celestiaorg |
+| Blog | https://blog.celestia.org/ |
 
 ## Tools
+### DA Layer Monitoring
+ * **Description:** Celestia DA Layer Metrics Checker is the ultimate tool for ensuring the reliability and security of your Celestia DA Nodes. Built with the community in mind, this user-friendly solution makes it easy to verify and monitor the health of your DA nodes, giving you peace of mind and optimal performance every time.
+ * **Link:** https://discord.com/channels/638338779505229824/1374362956136976426
+ * **Repository:** https://github.com/DTEAMTECH/da-layer-monitoring
 
-- **Celestia bridge health checker** / **Available on [website](https://celestia-bridge-checker.dteam.tech/) and [Discord](https://discord.gg/BCeXe63Mm8)**: Celestia Bridge Health Checker, the ultimate tool for ensuring the reliability and security of your Celestia bridge node. Designed with the community in mind, this checker allows you to easily verify the health of your bridge nodes. Simply enter your IP, port, and authentication token to get started.
-- **Celestia community [Discord](https://discord.gg/BCeXe63Mm8) faucet**: The Celestia DTEAM Community Faucet is designed as a reliable backup solution to ensure that users can always receive tokens, even if the main faucet experiences problems. You can receive up to 10 tokens every 24 hours.
+### Community Discord Faucet
+ * **Description:** A lightweight Discord bot for distributing Celestia testnet tokens, available in the DTEAM community server.
+ * **Link:** https://discord.gg/BCeXe63Mm8
+ * **Repository:** https://github.com/DTEAMTECH/celestia-discord-faucet
+
+### Bridge Health Checker (Web)
+ * **Description:** A simple and effective tool to check the health of your Celestia Bridge node.
+ * **Link:** https://celestia-bridge-checker.dteam.tech/
+ * **Repository:** https://github.com/DTEAMTECH/celestia-bridge-health-checker
+
+### Bridge Health Checker (Discord)
+ * **Description:** The Discord bot to check the health of Celestia Bridge nodes, available in the DTEAM community server.
+ * **Link:** https://discord.gg/BCeXe63Mm8
+ * **Repository:** https://github.com/DTEAMTECH/celestia-bridge-health-checker-discord
     
-## Our infra / services on [dteam.tech](https://dteam.tech/)
+## Our infrastructure / services on [dteam.tech](https://dteam.tech/)
   
 | Name | Description | Link |
 |-------------|-------------|-------------|
@@ -69,59 +83,29 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 
 ## Other contributions
 
-- **Endpoints / Archive**:
-   * Mainnet(celestia):
-      * RPC / Archive: ```https://rpc.archive.celestia.mainnet.dteam.tech:443```
-      * Rest / Archive: ```https://api.archive.celestia.mainnet.dteam.tech:443```
-      * GRPC / Archive: ```grpc.archive.celestia.mainnet.dteam.tech:28090```
-   * Testnet(mocha-4):
-      * RPC / Archive: ```https://rpc.archive.celestia.testnet.dteam.tech:443```
-      * Rest / Archive: ```https://api.archive.celestia.testnet.dteam.tech:443```
-      * GRPC / Archive: ```grpc.archive.celestia.testnet.dteam.tech:27090```
+### Endpoints / Archive:
+**Mainnet (celestia):**
+ * RPC / Archive: ```https://rpc.archive.celestia.mainnet.dteam.tech:443```
+ * Rest / Archive: ```https://api.archive.celestia.mainnet.dteam.tech:443```
+ * GRPC / Archive: ```grpc.archive.celestia.mainnet.dteam.tech:28090```
 
-- **Seeds / Peers:**
-   * Mainnet(celestia):
-      * Seed: ```9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656```
-      * Peer: ```076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656```
-   * Testnet(mocha-4):
-      * Seed: ```70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656```
-      * Peer: ```6ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656```
+**Testnet (mocha-4):**
+ * RPC / Archive: ```https://rpc.archive.celestia.testnet.dteam.tech:443```
+ * Rest / Archive: ```https://api.archive.celestia.testnet.dteam.tech:443```
+ * GRPC / Archive: ```grpc.archive.celestia.testnet.dteam.tech:27090```
 
-- **Explorers / Archive:**
-   * Mainnet(celestia):
-      * [https://explorer.mainnet.dteam.tech/celestia](https://explorer.mainnet.dteam.tech/celestia)
-   * Testnet(mocha-4):
-      * [https://explorer.testnet.dteam.tech/celestia](https://explorer.testnet.dteam.tech/celestia)
+### Seeds / Peers:
+**Mainnet (celestia):**
+ * Seed: ```9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656```
+ * Peer: ```076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656```
 
-## Celestia bridge health checker usage
+**Testnet (mocha-4):**
+ * Seed: ```70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656```
+ * Peer: ```6ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656```
 
-To use the Celestia Bridge Health Checker, follow these steps:
-1. Open RPC port and restart your node:
-    * Open port:
-      * Mainnet: ```sed -i '/\[RPC\]/,/^\[/ s/Address = "localhost"/Address = "0.0.0.0"/' $HOME/.celestia-bridge/config.toml```
-      * Testnet: ```sed -i '/\[RPC\]/,/^\[/ s/Address = "localhost"/Address = "0.0.0.0"/' $HOME/.celestia-bridge-mocha-4/config.toml```
-    * Restart node: ```sudo systemctl restart celestia-bridge```
-
-2. Get data to use checker:
-   * Get IP: ```hostname -I```
-   * Get port:
-      * Mainnet: ```awk -F' = ' '/\[RPC\]/ {flag=1; next} flag && /Port/ {gsub(/"/, "", $2); print $2; exit}' $HOME/.celestia-bridge/config.toml```
-      * Testnet: ```awk -F' = ' '/\[RPC\]/ {flag=1; next} flag && /Port/ {gsub(/"/, "", $2); print $2; exit}' $HOME/.celestia-bridge-mocha-4/config.toml```
-   * Get authentication token:
-      * Mainnet: ```celestia bridge auth read```
-      * Testnet: ```celestia bridge auth read --p2p.network mocha-4```
-
-3. Usage: 
-    * On the website: Go to [link](https://celestia-bridge-checker.dteam.tech/), fill in all the fields with the relevant data and press the "Check" button.
-    * In [Discord](https://discord.gg/BCeXe63Mm8): Go to #🤖・celestia-bridge-checker channel and type ```!checknode <ip> <port> <token>```.
-4. Check the results!
-
-## Celestia community Discord faucet usage
-
-To use the Celestia community Discord faucet usage, follow these steps:
-1. Usage:
-   * In [Discord](https://discord.gg/BCeXe63Mm8): Go to #🚰・celestia channel and type ```!faucet <celestia_address>```
-2. Check the results!
+### Explorers / Archive:
+   * Mainnet (celestia): https://explorer.mainnet.dteam.tech/celestia
+   * Testnet (mocha-4): https://explorer.testnet.dteam.tech/celestia
 
 ## Contribution
 
