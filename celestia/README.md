@@ -53,35 +53,19 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 - **Celestia community [Discord](https://discord.gg/BCeXe63Mm8) faucet**: The Celestia DTEAM Community Faucet is designed as a reliable backup solution to ensure that users can always receive tokens, even if the main faucet experiences problems. You can receive up to 10 tokens every 24 hours.
     
 ## Our infra / services on [dteam.tech](https://dteam.tech/)
-- **Mainnet(celestia):**
   
 | Name | Description | Link |
 |-------------|-------------|-------------|
-| Overview | Links to Celestia resources, DTEAM validator status, network parameters, and staking calculator for mainnet networks. | [https://dteam.tech/services/mainnet/overview/celestia](https://dteam.tech/services/mainnet/overview/celestia) |
-| Installation guides | Comprehensive installation guides for various setups including consensus, cosmovisor, bridge, full, and light nodes. | [Consensus](https://dteam.tech/services/mainnet/installation-guide/celestia?type=consensus)<br>[Consensus with cosmovisor](https://dteam.tech/services/mainnet/installation-guide/celestia?type=cosmovisor)<br>[Bridge](https://dteam.tech/services/mainnet/installation-guide/celestia?type=bridge)<br>[Full](https://dteam.tech/services/mainnet/installation-guide/celestia?type=full)<br>[Light](https://dteam.tech/services/mainnet/installation-guide/celestia?type=light) |
-| Snapshot | Provides the latest blockchain snapshots for quick node setup and synchronization. | [https://dteam.tech/services/mainnet/snapshot/celestia](https://dteam.tech/services/mainnet/snapshot/celestia) |
-| State sync | Instructions and resources for state sync to speed up node synchronization. | [https://dteam.tech/services/mainnet/state-sync/celestia](https://dteam.tech/services/mainnet/state-sync/celestia) |
-| Endpoints | Information on various network endpoints for connecting to the Celestia mainnet. | [https://dteam.tech/services/mainnet/endpoints/celestia](https://dteam.tech/services/mainnet/endpoints/celestia) |
-| Addrbook | Contains the addrbook.json file for discovering peers and improving network connectivity. | [https://dteam.tech/services/mainnet/endpoints/celestia](https://dteam.tech/services/mainnet/endpoints/celestia) |
-| Genesis | Provides the genesis.json file necessary for node initialization and network participation. | [https://dteam.tech/services/mainnet/genesis/celestia](https://dteam.tech/services/mainnet/genesis/celestia) |
-| Persistent peers | List of persistent peers to enhance network stability and connectivity. | [https://dteam.tech/services/mainnet/peers/celestia](https://dteam.tech/services/mainnet/peers/celestia) |
-| Seed node | Details on seed nodes for initial peer discovery and network bootstrapping. | [https://dteam.tech/services/mainnet/seeds/celestia](https://dteam.tech/services/mainnet/seeds/celestia) |
-| Useful commands / Cheat sheet | A collection of essential commands and a cheat sheet for managing Celestia nodes effectively. | [https://dteam.tech/services/mainnet/useful-commands/celestia](https://dteam.tech/services/mainnet/useful-commands/celestia) |
-
-- **Testnet(mocha-4):**
-  
-| Name | Description | Link |
-|-------------|-------------|-------------|
-| Overview | Links to Celestia resources, DTEAM validator status, network parameters. | [https://dteam.tech/services/testnet/overview/celestia](https://dteam.tech/services/testnet/overview/celestia) |
-| Installation guides | Comprehensive installation guides for various setups including consensus, cosmovisor, bridge, full, and light nodes. | [Consensus](https://dteam.tech/services/testnet/installation-guide/celestia?type=consensus)<br>[Consensus with cosmovisor](https://dteam.tech/services/testnet/installation-guide/celestia?type=cosmovisor)<br>[Bridge](https://dteam.tech/services/testnet/installation-guide/celestia?type=bridge)<br>[Full](https://dteam.tech/services/testnet/installation-guide/celestia?type=full)<br>[Light](https://dteam.tech/services/testnet/installation-guide/celestia?type=light) |
-| Snapshot | Provides the latest blockchain snapshots for quick node setup and synchronization. | [https://dteam.tech/services/testnet/snapshot/celestia](https://dteam.tech/services/testnet/snapshot/celestia) |
-| State sync | Instructions and resources for state sync to speed up node synchronization. | [https://dteam.tech/services/testnet/state-sync/celestia](https://dteam.tech/services/testnet/state-sync/celestia) |
-| Endpoints | Information on various network endpoints for connecting to the Celestia testnet. | [https://dteam.tech/services/testnet/endpoints/celestia](https://dteam.tech/services/testnet/endpoints/celestia) |
-| Addrbook | Contains the addrbook.json file for discovering peers and improving network connectivity. | [https://dteam.tech/services/testnet/endpoints/celestia](https://dteam.tech/services/testnet/endpoints/celestia) |
-| Genesis | Provides the genesis.json file necessary for node initialization and network participation. | [https://dteam.tech/services/testnet/genesis/celestia](https://dteam.tech/services/testnet/genesis/celestia) |
-| Persistent peers | List of persistent peers to enhance network stability and connectivity. | [https://dteam.tech/services/testnet/peers/celestia](https://dteam.tech/services/testnet/peers/celestia) |
-| Seed node | Details on seed nodes for initial peer discovery and network bootstrapping. | [https://dteam.tech/services/testnet/seeds/celestia](https://dteam.tech/services/testnet/seeds/celestia) |
-| Useful commands / Cheat sheet | A collection of essential commands and a cheat sheet for managing Celestia nodes effectively. | [https://dteam.tech/services/testnet/useful-commands/celestia](https://dteam.tech/services/testnet/useful-commands/celestia) |
+| Overview | Links to Celestia resources, DTEAM validator status, network parameters, and staking calculator for mainnet networks. | [Mainnet](https://dteam.tech/services/overview/celestia/mainnet) \| [Testnet](https://dteam.tech/services/overview/celestia/testnet) |
+| Installation guides | Comprehensive installation guides for various setups including consensus, cosmovisor, bridge, full, and light nodes. | Mainnet:<br>[Consensus](https://dteam.tech/services/installation-guide/celestia/mainnet) \| [Consensus with cosmovisor](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=cosmovisor) \| [Bridge](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=bridge) \| [Full](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=full) \| [Light](https://dteam.tech/services/installation-guide/celestia/mainnet?tab=light)<br><br>Testnet:<br>[Consensus](https://dteam.tech/services/installation-guide/celestia/testnet) \| [Consensus with cosmovisor](https://dteam.tech/services/installation-guide/celestia/testnet?tab=cosmovisor) \| [Bridge](https://dteam.tech/services/installation-guide/celestia/testnet?tab=bridge) \| [Full](https://dteam.tech/services/installation-guide/celestia/testnet?tab=full) \| [Light](https://dteam.tech/services/installation-guide/celestia/testnet?tab=light) |
+| Snapshot | Provides the latest blockchain snapshots for quick node setup and synchronization. | [Mainnet](https://dteam.tech/services/snapshot/celestia/mainnet) \| [Testnet](https://dteam.tech/services/snapshot/celestia/testnet) |
+| State sync | Instructions and resources for state sync to speed up node synchronization. | [Mainnet](https://dteam.tech/services/state-sync/celestia/mainnet) \| [Testnet](https://dteam.tech/services/state-sync/celestia/testnet) |
+| Endpoints | Information on various network endpoints for connecting to the Celestia mainnet. | [Mainnet](https://dteam.tech/services/endpoints/celestia/mainnet) \| [Testnet](https://dteam.tech/services/endpoints/celestia/testnet) |
+| Addrbook | Contains the addrbook.json file for discovering peers and improving network connectivity. | [Mainnet](https://dteam.tech/services/addrbook/celestia/mainnet) \| [Testnet](https://dteam.tech/services/addrbook/celestia/testnet) |
+| Genesis | Provides the genesis.json file necessary for node initialization and network participation. | [Mainnet](https://dteam.tech/services/genesis/celestia/mainnet) \| [Testnet](https://dteam.tech/services/genesis/celestia/testnet) |
+| Persistent peers | List of persistent peers to enhance network stability and connectivity. | [Mainnet](https://dteam.tech/services/peers/celestia/mainnet) \| [Testnet](https://dteam.tech/services/peers/celestia/testnet) |
+| Seed node | Details on seed nodes for initial peer discovery and network bootstrapping. | [Mainnet](https://dteam.tech/services/seeds/celestia/mainnet) \| [Testnet](https://dteam.tech/services/seeds/celestia/testnet) |
+| Useful commands / Cheat sheet | A collection of essential commands and a cheat sheet for managing Celestia nodes effectively. | [Mainnet](https://dteam.tech/services/useful-commands/celestia/mainnet) \| [Testnet](https://dteam.tech/services/useful-commands/celestia/testnet) |
 
 ## Other contributions
 
