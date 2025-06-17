@@ -40,12 +40,12 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 
 | Resource | Link |
 |-------------|-------------|
-| Website | [https://celestia.org/](https://celestia.org) |
-| Twitter / X | [https://twitter.com/CelestiaOrg](https://twitter.com/CelestiaOrg) |
-| Github | [https://github.com/celestiaorg](https://github.com/celestiaorg) |
-| Discord | [https://discord.gg/YrXs6nV4Ra](https://discord.gg/YrXs6nV4Ra) |
-| Linkedin | [https://www.linkedin.com/company/celestiaorg/](https://www.linkedin.com/company/celestiaorg)    |
-| Blog | [https://blog.celestia.org/](https://blog.celestia.org/) |
+| Website | [Link](https://celestia.org) |
+| Twitter / X | [Link](https://twitter.com/CelestiaOrg) |
+| Github | [Link](https://github.com/celestiaorg) |
+| Discord | [Link](https://discord.gg/YrXs6nV4Ra) |
+| Linkedin | [Link](https://www.linkedin.com/company/celestiaorg)    |
+| Blog | [Link](https://blog.celestia.org/) |
 
 ## Tools
 
