@@ -10,10 +10,10 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 |-------------|-------------|
 | [About Celestia](#about-celestia) | Insight into Celestia's modular architecture, scalability, data availability, and other key features. |
 | [Celestia Resources](#celestia-resources) | Links to essential resources, including the official website, GitHub, and social media. |
-| [Tools](#tools) | Descriptions of the tools provided in this repository. |
-| [Infra / Services](#our-infra--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
+| [Tools](#tools) | Descriptions and links to tools designed specifically for the Celestia ecosystem and community by DTEAM. |
+| [Infrastructure / Services](#our-infrastructure--services-on-dteamtech) | Details on infrastructure and services available on the DTEAM website. |
 | [Other Contributions](#other-contributions) | Information on additional contributions to the Celestia ecosystem. |
-| [Contribution to This Repo](#celestia-bridge-health-checker-usage) | A tool for verifying |
+| [Contribution to This Repository](#contribution) | Contribution guidance for this repository |
 
 # About Celestia
   * **Modular Architecture:** Celestia separates the consensus and data availability layers from the execution layer, allowing for customizable execution environments.
