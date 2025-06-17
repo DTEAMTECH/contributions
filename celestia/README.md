@@ -125,6 +125,6 @@ To use the Celestia community Discord faucet usage, follow these steps:
 
 ## Contribution
 
-We welcome contributions to improve the scripts in this folder. Please follow the general contribution guidelines outlined in the main repository's README.
+We welcome contributions to improve the content in this folder. Please follow the general contribution guidelines outlined in the main repository's README.
 
 **Thank you for contributing to the projects supported by DTEAM!**
