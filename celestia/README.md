@@ -85,7 +85,7 @@ The Celestia contributions folder contains scripts and tools designed to facilit
 
 ### Community Contributions
 
-We proudly support the Community Contributions folder (/community-contributions), a curated collection of tools, scripts and resources created by our vibrant Celestia community. Whether you’re running nodes, monitoring performance or building custom utilities, you’ll find ready-to-use contributions that help you get the most out of Celestia - and you’re invited to add your own!
+We proudly support the **[Community Contributions](./community-contributions/)** folder (`/community-contributions`), a curated collection of tools, scripts and resources created by our vibrant Celestia community. Whether you’re running nodes, monitoring performance or building custom utilities, you’ll find ready-to-use contributions that help you get the most out of Celestia - and you’re invited to add your own!
 
 ### Endpoints / Archive:
 **Mainnet (celestia):**
