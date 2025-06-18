@@ -1,12 +1,3 @@
 [submodule "nubit/nubit-bridge-metrics"]
 	path = nubit/nubit-bridge-metrics
 	url = https://github.com/DTEAMTECH/nubit-bridge-metrics
-[submodule "celestia/celestia-bridge-health-checker"]
-	path = celestia/celestia-bridge-health-checker
-	url = https://github.com/DTEAMTECH/celestia-bridge-health-checker
-[submodule "celestia/celestia-bridge-health-checker-discord"]
-	path = celestia/celestia-bridge-health-checker-discord
-	url = https://github.com/DTEAMTECH/celestia-bridge-health-checker-discord
-[submodule "celestia/da-layer-monitoring"]
-	path = celestia/da-layer-monitoring
-	url = https://github.com/DTEAMTECH/da-layer-monitoring.git
