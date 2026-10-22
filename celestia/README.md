@@ -51,6 +51,12 @@ The Celestia contributions folder contains scripts and tools designed to facilit
  * **Link:** https://discord.com/channels/638338779505229824/1374362956136976426
  * **Repository:** https://github.com/DTEAMTECH/da-layer-monitoring
 
+### Fibre Monitoring
+
+ * **Description:** A self-hosted Grafana monitoring stack for Celestia Fibre operators. Tracks upload/download traffic and latency, storage budget, payment-promise signing and Go runtime metrics. Runs with Docker Compose and supports optional Telegram, Discord or webhook notifications.
+ * **Link:** https://github.com/DTEAMTECH/fibre-monitoring#quick-start
+ * **Repository:** https://github.com/DTEAMTECH/fibre-monitoring
+
 ### Community Discord Faucet
  * **Description:** A lightweight Discord bot for distributing Celestia testnet tokens, available in the DTEAM community server.
  * **Link:** https://discord.gg/BCeXe63Mm8
