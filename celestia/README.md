@@ -57,6 +57,11 @@ The Celestia contributions folder contains scripts and tools designed to facilit
  * **Link:** https://github.com/DTEAMTECH/fibre-monitoring#quick-start
  * **Repository:** https://github.com/DTEAMTECH/fibre-monitoring
 
+### FibreStats
+
+ * **Description:** A Celestia Fibre analytics dashboard for Mainnet and Mocha. Explore provider availability, voting power and decentralization, blob settlements, reconstruction checks and network economics.
+ * **Link:** https://fibrestats.com
+
 ### Community Discord Faucet
  * **Description:** A lightweight Discord bot for distributing Celestia testnet tokens, available in the DTEAM community server.
  * **Link:** https://discord.gg/BCeXe63Mm8
