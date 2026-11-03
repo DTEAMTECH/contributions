@@ -104,7 +104,7 @@ We proudly support the **[Community Contributions](./community-contributions/)**
  * Rest / Archive: ```https://api.archive.celestia.mainnet.dteam.tech:443```
  * GRPC / Archive: ```grpc.archive.celestia.mainnet.dteam.tech:28090```
 
-**Testnet (mocha-4):**
+**Testnet (mocha-5):**
  * RPC / Archive: ```https://rpc.archive.celestia.testnet.dteam.tech:443```
  * Rest / Archive: ```https://api.archive.celestia.testnet.dteam.tech:443```
  * GRPC / Archive: ```grpc.archive.celestia.testnet.dteam.tech:27090```
@@ -114,13 +114,13 @@ We proudly support the **[Community Contributions](./community-contributions/)**
  * Seed: ```9b1d22c3a78487d1a664a4b6a331fce527d14fb4@seed.celestia.mainnet.dteam.tech:27656```
  * Peer: ```076c9cc9de3039819a98522aeea39e8c72b49682@peer.celestia.mainnet.dteam.tech:28656```
 
-**Testnet (mocha-4):**
+**Testnet (mocha-5):**
  * Seed: ```70e8a8941f32dc5f696e46ee836c27620e773065@seed.celestia.testnet.dteam.tech:26656```
  * Peer: ```6ed983017167d96c62b166725250940deb783563@peer.celestia.testnet.dteam.tech:27656```
 
 ### Explorers / Archive:
    * Mainnet (celestia): https://explorer.mainnet.dteam.tech/celestia
-   * Testnet (mocha-4): https://explorer.testnet.dteam.tech/celestia
+   * Testnet (mocha-5): https://explorer.testnet.dteam.tech/celestia
 
 ## Contribution
 
